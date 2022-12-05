@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/3xsqpx7miqh943nwih89zyy9gs2820f2-profile",
+      "logMessage": [
+        "brantley installed stable.nixpkgs-flox.sl"
+      ],
+      "created": 1670277803,
+      "lastActive": 1670277803
+    }
+  }
+}
