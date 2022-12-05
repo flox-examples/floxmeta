@@ -1,0 +1,16 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.aarch64-darwin.stable.sl",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "priority": 5,
+      "storePaths": [
+        "/nix/store/8wqp38i1l06xf75f6bkqiqgqncpamhay-sl-5.05"
+      ],
+      "url": "github:flox/nixpkgs-flox/177ee3fdda868693b164b9e753a8da1c97737cd3"
+    }
+  ],
+  "version": 2
+}
