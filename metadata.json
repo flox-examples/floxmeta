@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "generations": {
+    "1": {
+      "path": "/nix/store/5pskf6aa4bk1jvx10ldyw25nb8k3lxgw-profile",
+      "logMessage": [
+        "Generation 1: robinbrantley installed nixpkgs.stable.nyancat",
+        "Generation 1->1: "
+      ],
+      "created": 1655904672,
+      "lastActive": 1655904953
+    },
+    "2": {
+      "path": "/nix/store/p0p25cla2fk5zzvmhkjrab6qa6bwviha-profile",
+      "logMessage": [
+        "Generation 1->2: robinbrantley edited declarative profile",
+        "Generation 2->2: "
+      ],
+      "created": 1655905085,
+      "lastActive": 1655908851
+    },
+    "3": {
+      "path": "/nix/store/rfw4p4xc6f2fdgjf0dvc1xmsypdw1mpm-profile",
+      "logMessage": [
+        "Generation 2->3: robinbrantley installed nixpkgs.stable.awscli"
+      ],
+      "created": 1655908871,
+      "lastActive": 1655909908
+    },
+    "4": {
+      "path": "/nix/store/hg328dw8hjs1hixwin7ssb3ar1hg5r2a-profile",
+      "logMessage": [
+        "Generation 3->4: robinbrantley installed nixpkgs.stable.figlet"
+      ],
+      "created": 1655909910,
+      "lastActive": 1655909908
+    }
+  },
+  "currentGen": "4"
+}
