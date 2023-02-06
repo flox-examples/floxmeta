@@ -1,0 +1,136 @@
+{
+  "nixpkgs-flox": {
+    "aarch64-linux": {
+      "stable": {
+        "cowsay": {
+          "latest": {
+            "cache": {
+              "man": {
+                "https://cache.nixos.org": {}
+              },
+              "out": {
+                "https://cache.nixos.org": {}
+              }
+            },
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "aarch64-linux",
+                "cowsay"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/v7zh7bgjdsbc5k9j1vqdc950hn15d13w-cowsay-3.04",
+                "/nix/store/h1bnw0i7s2nn8xz3g9m7a14slaky81qi-cowsay-3.04-man"
+              ],
+              "url": "github:flox/nixpkgs/fad51abd42ca17a60fc1d4cb9382e2d79ae31836"
+            },
+            "eval": {
+              "meta": {
+                "description": "A program which generates ASCII pictures of a cow with a message",
+                "outputsToInstall": [
+                  "out",
+                  "man"
+                ],
+                "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/tools/misc/cowsay/default.nix:41",
+                "unfree": false
+              },
+              "name": "cowsay-3.04",
+              "outputs": {
+                "man": "/nix/store/h1bnw0i7s2nn8xz3g9m7a14slaky81qi-cowsay-3.04-man",
+                "out": "/nix/store/v7zh7bgjdsbc5k9j1vqdc950hn15d13w-cowsay-3.04"
+              },
+              "pname": "cowsay",
+              "system": "aarch64-linux",
+              "version": "3.04"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-linux",
+                "stable",
+                "cowsay"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/vg8m9514l5h78fp2j4rbb2zlvdv9qq2k-cowsay-3.04"
+              ],
+              "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+            },
+            "schema": 1,
+            "source": {
+              "locked": {
+                "lastModified": 1671983799,
+                "revCount": 437630
+              }
+            },
+            "type": "catalogRender"
+          }
+        },
+        "fortune": {
+          "latest": {
+            "cache": {
+              "out": {
+                "https://cache.nixos.org": {}
+              }
+            },
+            "element": {
+              "attrPath": [
+                "legacyPackages",
+                "aarch64-linux",
+                "fortune"
+              ],
+              "originalUrl": "flake:nixpkgs",
+              "outputs": null,
+              "storePaths": [
+                "/nix/store/kxkhljlysc74pnfka349jgfvaaa2c9rj-fortune-mod-3.14.1"
+              ],
+              "url": "github:flox/nixpkgs/fad51abd42ca17a60fc1d4cb9382e2d79ae31836"
+            },
+            "eval": {
+              "meta": {
+                "description": "A program that displays a pseudorandom message from a database of quotations",
+                "outputsToInstall": [
+                  "out"
+                ],
+                "position": "/nix/store/wh4nnz2ga9lpxl406ia1cnsi891xaa4x-source/pkgs/tools/misc/fortune/default.nix:45",
+                "unfree": false
+              },
+              "name": "fortune-mod-3.14.1",
+              "outputs": {
+                "out": "/nix/store/kxkhljlysc74pnfka349jgfvaaa2c9rj-fortune-mod-3.14.1"
+              },
+              "pname": "fortune-mod",
+              "system": "aarch64-linux",
+              "version": "3.14.1"
+            },
+            "publish_element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "aarch64-linux",
+                "stable",
+                "fortune"
+              ],
+              "originalUrl": "flake:nixpkgs-flox",
+              "storePaths": [
+                "/nix/store/v5r7kg0wdppsb8ffqqwvd5z7z8k5d7jj-fortune-mod-3.14.1"
+              ],
+              "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+            },
+            "schema": 1,
+            "source": {
+              "locked": {
+                "lastModified": 1671983799,
+                "revCount": 437630
+              }
+            },
+            "type": "catalogRender"
+          }
+        }
+      }
+    }
+  }
+}
