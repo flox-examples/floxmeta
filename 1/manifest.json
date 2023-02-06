@@ -1,0 +1,25 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.aarch64-darwin.stable.cowsay",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/2m67m6zvzm407aqdc9vvricdnad31ldq-cowsay-3.04"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    },
+    {
+      "active": true,
+      "attrPath": "evalCatalog.aarch64-darwin.stable.fortune",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/jigzl5vfc48pvkkffgmfwqiqv1syjzml-fortune-mod-3.14.1"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    }
+  ],
+  "version": 2
+}

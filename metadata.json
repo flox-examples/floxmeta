@@ -1,0 +1,15 @@
+{
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "created": 1675704992,
+      "lastActive": 1675704992,
+      "logMessage": [
+        "brantley installed stable.nixpkgs-flox.cowsay stable.nixpkgs-flox.fortune"
+      ],
+      "path": "/nix/store/l4vpw2m7q88vzaz0s6wy92njkv2i2vm5-floxShell",
+      "version": 2
+    }
+  },
+  "version": 1
+}
