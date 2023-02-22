@@ -1,0 +1,25 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.ruff",
+      "originalUrl": "flake:nixpkgs-flox",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/700jwn3mxdrd5b56rs7324h33lav0mnk-ruff-0.0.193"
+      ],
+      "url": "flake:nixpkgs-flox/bc44d6d77530ff0f5d7cdf28b4d8feb37bc8af70"
+    },
+    {
+      "active": true,
+      "attrPath": "floxEnvs.x86_64-linux.default.inline.packages.x86_64-linux.mypython",
+      "originalUrl": ".",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/lds31jxc4d506cd9nmy7f7jvnd9v1x49-python3-3.10.9-env-mypython"
+      ],
+      "url": ""
+    }
+  ],
+  "version": 2
+}

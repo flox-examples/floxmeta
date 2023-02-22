@@ -1,0 +1,15 @@
+{
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "created": 1677067108,
+      "lastActive": 1677067108,
+      "logMessage": [
+        "brantley imported generation 1"
+      ],
+      "path": "/nix/store/p6a3fll2m2jpdgr5sql6cfkgv54lgvwq-floxShell",
+      "version": 2
+    }
+  },
+  "version": 1
+}
