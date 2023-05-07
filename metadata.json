@@ -1,13 +1,22 @@
 {
-  "currentGen": "1",
+  "currentGen": "2",
   "generations": {
     "1": {
       "created": 1683467510,
-      "lastActive": 1683467510,
+      "lastActive": 1683467525,
       "logMessage": [
         "brantley created environment"
       ],
       "path": "/nix/store/lfy4pajaa8zww33f8x2za43zzgk5rwbl-floxShell",
+      "version": 2
+    },
+    "2": {
+      "created": 1683467525,
+      "lastActive": 1683467525,
+      "logMessage": [
+        "brantley installed stable.flox-examples.clinix"
+      ],
+      "path": "/nix/store/zv6ya4xxfy1snsf5fi5lqr115a309510-floxShell",
       "version": 2
     }
   },
