@@ -1,0 +1,15 @@
+{
+  "elements": [
+    {
+      "active": true,
+      "attrPath": "evalCatalog.x86_64-linux.stable.clinix",
+      "originalUrl": "flake:flox-examples",
+      "outputs": null,
+      "storePaths": [
+        "/nix/store/iyln65y1678hajq9km6h9c2x2b16nxhc-clinix-0.0.1-r22"
+      ],
+      "url": "flake:flox-examples/5f574f6e30aa41cb54e1f61995ba85b557af5d68"
+    }
+  ],
+  "version": 2
+}
