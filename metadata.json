@@ -1,5 +1,5 @@
 {
-  "currentGen": "8",
+  "currentGen": "9",
   "generations": {
     "1": {
       "created": 1683587334,
@@ -66,11 +66,20 @@
     },
     "8": {
       "created": 1683602822,
-      "lastActive": 1683602822,
+      "lastActive": 1683602933,
       "logMessage": [
         "ec2-user upgraded "
       ],
       "path": "/nix/store/ck1x2hbpa1jlsvmb3gm2f9hcaqrdlx2h-floxShell",
+      "version": 2
+    },
+    "9": {
+      "created": 1683602933,
+      "lastActive": 1683602933,
+      "logMessage": [
+        "ec2-user upgraded "
+      ],
+      "path": "/nix/store/1137jhzfsjy74x2lp3banj9lhrjhggbv-floxShell",
       "version": 2
     }
   },
