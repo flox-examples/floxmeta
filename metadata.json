@@ -1,5 +1,5 @@
 {
-  "currentGen": "7",
+  "currentGen": "10",
   "generations": {
     "1": {
       "created": 1683587334,
@@ -8,6 +8,15 @@
         "ec2-user installed stable.flox-examples.clinix"
       ],
       "path": "/nix/store/r4iynhgs71274dqqdy9a6xjsbv3i7ym7-floxShell",
+      "version": 2
+    },
+    "10": {
+      "created": 1683603401,
+      "lastActive": 1683603401,
+      "logMessage": [
+        "ec2-user upgraded "
+      ],
+      "path": "/nix/store/1137jhzfsjy74x2lp3banj9lhrjhggbv-floxShell",
       "version": 2
     },
     "2": {
@@ -57,7 +66,7 @@
     },
     "7": {
       "created": 1683601891,
-      "lastActive": 1683602822,
+      "lastActive": 1683603401,
       "logMessage": [
         "ec2-user upgraded "
       ],
