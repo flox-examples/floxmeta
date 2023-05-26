@@ -1,0 +1,203 @@
+{
+  "flox-examples": {
+    "x86_64-linux": {
+      "stable": {
+        "clinix": {
+          "latest": {
+            "build": [
+              {
+                "hasBin": false,
+                "hasMan": false
+              }
+            ],
+            "element": {
+              "active": true,
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "clinix"
+              ],
+              "originalUrl": "flake:flox-examples",
+              "storePaths": [
+                "/nix/store/kimh59jfxnv0svc85ifpm1j8df2wrpy5-clinix-0.0.1-r36"
+              ],
+              "url": "flake:flox-examples/34f7f069ae07d4c2ab799a0bdf1118bf3a008149"
+            },
+            "eval": {
+              "attrPath": [
+                "evalCatalog",
+                "x86_64-linux",
+                "stable",
+                "clinix"
+              ],
+              "drvPath": "/nix/store/lydykmkmcrsbf7xchm36syry9wbdb0n6-clinix-0.0.1-r36.drv",
+              "meta": {
+                "available": true,
+                "broken": false,
+                "description": "an example flox package",
+                "element": {
+                  "element": {
+                    "active": true,
+                    "attrPath": [
+                      "packages",
+                      "x86_64-linux",
+                      "clinix"
+                    ],
+                    "storePaths": [
+                      "/nix/store/xa2hifxdsnyc7iyn8jsg7nj8hc0sic32-clinix-0.0.1-r36"
+                    ],
+                    "url": "git+ssh://git@github.com/flox-examples/clinix.git?rev=3db87f6b40a80330eec671cd814f1102d285611d"
+                  },
+                  "eval": {
+                    "attrPath": [
+                      "packages",
+                      "x86_64-linux",
+                      "clinix"
+                    ],
+                    "drvPath": "/nix/store/59d8fjdm41b1c0phpflsv5jvab2b5rq1-clinix-0.0.1-r36.drv",
+                    "meta": {
+                      "available": true,
+                      "broken": false,
+                      "description": "an example flox package",
+                      "insecure": false,
+                      "isBuildPythonPackage": [
+                        "aarch64-linux",
+                        "armv5tel-linux",
+                        "armv6l-linux",
+                        "armv7a-linux",
+                        "armv7l-linux",
+                        "i686-linux",
+                        "m68k-linux",
+                        "microblaze-linux",
+                        "microblazeel-linux",
+                        "mipsel-linux",
+                        "mips64el-linux",
+                        "powerpc64-linux",
+                        "powerpc64le-linux",
+                        "riscv32-linux",
+                        "riscv64-linux",
+                        "s390-linux",
+                        "s390x-linux",
+                        "x86_64-linux",
+                        "x86_64-darwin",
+                        "i686-darwin",
+                        "aarch64-darwin",
+                        "armv7a-darwin"
+                      ],
+                      "name": "clinix-0.0.1-r36",
+                      "outputsToInstall": [
+                        "out"
+                      ],
+                      "platforms": [
+                        "aarch64-linux",
+                        "armv5tel-linux",
+                        "armv6l-linux",
+                        "armv7a-linux",
+                        "armv7l-linux",
+                        "i686-linux",
+                        "m68k-linux",
+                        "microblaze-linux",
+                        "microblazeel-linux",
+                        "mipsel-linux",
+                        "mips64el-linux",
+                        "powerpc64-linux",
+                        "powerpc64le-linux",
+                        "riscv32-linux",
+                        "riscv64-linux",
+                        "s390-linux",
+                        "s390x-linux",
+                        "x86_64-linux",
+                        "x86_64-darwin",
+                        "i686-darwin",
+                        "aarch64-darwin",
+                        "armv7a-darwin"
+                      ],
+                      "position": "/nix/store/f6fj1y0yymx86fjcklh317yhdihhpfy0-source/pkgs/clinix/default.nix:37",
+                      "unfree": false,
+                      "unsupported": false
+                    },
+                    "name": "clinix-0.0.1-r36",
+                    "namespace": [
+                      "clinix"
+                    ],
+                    "outputs": {
+                      "dist": "/nix/store/zypgdak9sqjmi0z5dcvrvq5v975zhz4h-clinix-0.0.1-r36-dist",
+                      "out": "/nix/store/xa2hifxdsnyc7iyn8jsg7nj8hc0sic32-clinix-0.0.1-r36"
+                    },
+                    "pname": "clinix",
+                    "stability": "stable",
+                    "system": "x86_64-linux",
+                    "version": "0.0.1-r36"
+                  }
+                },
+                "insecure": false,
+                "isBuildPythonPackage": [
+                  "aarch64-linux",
+                  "armv5tel-linux",
+                  "armv6l-linux",
+                  "armv7a-linux",
+                  "armv7l-linux",
+                  "i686-linux",
+                  "m68k-linux",
+                  "microblaze-linux",
+                  "microblazeel-linux",
+                  "mipsel-linux",
+                  "mips64el-linux",
+                  "powerpc64-linux",
+                  "powerpc64le-linux",
+                  "riscv32-linux",
+                  "riscv64-linux",
+                  "s390-linux",
+                  "s390x-linux",
+                  "x86_64-linux",
+                  "x86_64-darwin",
+                  "i686-darwin",
+                  "aarch64-darwin",
+                  "armv7a-darwin"
+                ],
+                "name": "clinix-0.0.1-r36",
+                "platforms": [
+                  "aarch64-linux",
+                  "armv5tel-linux",
+                  "armv6l-linux",
+                  "armv7a-linux",
+                  "armv7l-linux",
+                  "i686-linux",
+                  "m68k-linux",
+                  "microblaze-linux",
+                  "microblazeel-linux",
+                  "mipsel-linux",
+                  "mips64el-linux",
+                  "powerpc64-linux",
+                  "powerpc64le-linux",
+                  "riscv32-linux",
+                  "riscv64-linux",
+                  "s390-linux",
+                  "s390x-linux",
+                  "x86_64-linux",
+                  "x86_64-darwin",
+                  "i686-darwin",
+                  "aarch64-darwin",
+                  "armv7a-darwin"
+                ],
+                "position": "/nix/store/f6fj1y0yymx86fjcklh317yhdihhpfy0-source/pkgs/clinix/default.nix:37",
+                "unfree": false,
+                "unsupported": false
+              },
+              "name": "clinix-0.0.1-r36",
+              "namespace": [],
+              "outputs": {
+                "out": "/nix/store/kimh59jfxnv0svc85ifpm1j8df2wrpy5-clinix-0.0.1-r36"
+              },
+              "pname": "clinix",
+              "system": "x86_64-linux",
+              "version": "0.0.1-r36"
+            },
+            "version": 1
+          }
+        }
+      }
+    }
+  }
+}
