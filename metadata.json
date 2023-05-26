@@ -1,5 +1,5 @@
 {
-  "currentGen": "24",
+  "currentGen": "23",
   "generations": {
     "1": {
       "created": 1683587334,
@@ -147,7 +147,7 @@
     },
     "24": {
       "created": 1685102372,
-      "lastActive": 1685102372,
+      "lastActive": 1685102497,
       "logMessage": [
         "ec2-user upgraded "
       ],
