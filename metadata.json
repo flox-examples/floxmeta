@@ -1,5 +1,5 @@
 {
-  "currentGen": "31",
+  "currentGen": "30",
   "generations": {
     "1": {
       "created": 1683587334,
@@ -219,7 +219,7 @@
     },
     "31": {
       "created": 1685544343,
-      "lastActive": 1685544343,
+      "lastActive": 1685544387,
       "logMessage": [
         "floxem upgraded stable.flox-examples.clinix"
       ],
